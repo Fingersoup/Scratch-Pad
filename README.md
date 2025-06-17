@@ -8,7 +8,7 @@ A dual-mode word processor designed specifically for healthcare environments, of
 > 
 ## 🚀 Getting Started
 1. Download the latest release
-2. Launch SecureWord (no admin rights required)
+2. Launch Scratch Pad 
 3. Configure settings as needed
 
 Version 1.0.0b — Friends & Family Edition
