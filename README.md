@@ -5,14 +5,17 @@ A dual-mode word processor designed specifically for healthcare environments, of
 ## 🏥 Perfect for Healthcare Environments
 
 > Scratch Pad is intuitive enough for anyone — from the front desk to clinical staff. A custom word processor designed for everyday workflow, with an option of privacy-first features ready if you need them.
+>
 > 
 ## 🚀 Getting Started
-1. Download the latest release
+1. Download the latest release: Scratch Pad.exe
+   > Version 1.0.0b — Friends & Family Edition
+>
 2. Launch Scratch Pad 
-3. Configure settings as needed
+3. Configure your settings as needed
+> 
 
-Version 1.0.0b — Friends & Family Edition
-Absolutely free to use — no telemetry, no data mining, no annoying ads, and zero tracking. We handpicked third-party libraries with privacy in mind, but hey, don’t just take our word for it—feel free to audit away. 🗽🦅
+Absolutely free to use — no subscriptions, no telemetry, no data mining, no annoying ads, and zero tracking. Third-party libraries are handpicked with privacy in mind, but don’t just take my word for it, feel free to audit away! 🗽🦅
 
 ## 🆕 Current Features
 
