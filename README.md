@@ -6,7 +6,13 @@ A dual-mode word processor designed specifically for healthcare environments, of
 
 > Scratch Pad is intuitive enough for anyone — from the front desk to clinical staff. A custom word processor designed for everyday workflow, with an option of privacy-first features ready if you need them.
 > 
+## 🚀 Getting Started
+1. Download the latest release
+2. Launch SecureWord (no admin rights required)
+3. Configure settings as needed
 
+Version 1.0.0b — Friends & Family Edition
+Absolutely free to use — no telemetry, no data mining, no annoying ads, and zero tracking. We handpicked third-party libraries with privacy in mind, but hey, don’t just take our word for it—feel free to audit away. 🗽🦅
 
 ## 🆕 Current Features
 
@@ -51,14 +57,6 @@ A dual-mode word processor designed specifically for healthcare environments, of
 ### Security Best Practices
 - **No Key Storage** - Passwords never stored, only derived keys in memory
 - **Secure Memory** - Sensitive data cleared from memory after use
-
-## 🚀 Getting Started
-1. Download the latest release
-2. Launch SecureWord (no admin rights required)
-3. Configure settings as needed
-
-Version 1.0.0b — Friends & Family Edition
-Absolutely free to use — no telemetry, no data mining, no annoying ads, and zero tracking. We handpicked third-party libraries with privacy in mind, but hey, don’t just take our word for it—feel free to audit away. 🗽🦅
 
 ### System Requirements
 - Windows 10/11
