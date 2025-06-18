@@ -1,6 +1,6 @@
 # Scratch Pad - A Healthcare-Focused Word Processor
 
-A dual-mode word processor designed specifically for healthcare environments, offering both fast general-purpose editing and secure encrypted document handling.
+A word processor designed specifically for healthcare or other clerical environments, offering both fast general-purpose editing and secure encrypted document handling.
 
 ## 🏥 Perfect for Healthcare Environments
 
