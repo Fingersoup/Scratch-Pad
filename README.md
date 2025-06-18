@@ -23,7 +23,7 @@ Absolutely free to use — no subscriptions, no telemetry, no data mining, no an
 - **Smart Features** - Auto-save, spell check, find/replace, undo/redo
 - **Print Support** with proper formatting
 - **Recent Files** management
-- **Bubbles and Clouds** Don't try to run both without a decent GPU
+- **Bubbles and Clouds** - Relaxing backgrounds for working (Don't try to run both UI effects without a decent GPU!)
 - **Customizable Settings** - fonts, word wrap, opacity, auto-clear clipboard
 - **No Telemetry** - completely private, local-only file operation
 - **Password-Protected Access** - secure login to encrypted documents
@@ -32,7 +32,6 @@ Absolutely free to use — no subscriptions, no telemetry, no data mining, no an
 - **File Integrity Verification** - ensures documents haven't been tampered with
 
 ## 🎯 Target Use Cases
-### Healthcare Administration
 - **HR Documents** - Employee reviews, disciplinary actions, salary negotiations
 - **Financial Planning** - Budget discussions, cost analysis, vendor negotiations
 - **Internal Communications** - Sensitive memos, policy drafts, meeting notes
@@ -42,7 +41,7 @@ Absolutely free to use — no subscriptions, no telemetry, no data mining, no an
 ## 🗝️ Key Benefits
 - ✅ **HIPAA-Adjacent Compliance** (for non-ePHI administrative documents)
 - ✅ **Zero Vendor Lock-in** - all files stored locally
-- ✅ **No Subscription Fees** - one-time purchase, no ongoing costs
+- ✅ **No Subscription Fees** - no ongoing costs
 - ✅ **Privacy-First Design** - no analytics, no cloud dependencies
 - ✅ **IT-Friendly** - minimal installation, no network requirements
 
