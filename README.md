@@ -1,10 +1,9 @@
 # Scratch Pad - A Privacy Focused Word Processor
 
-A word processor designed specifically for healthcare (or other clerical) environments, offering both fast general-purpose editing and secure encrypted document handling.
+A word processor designed specifically for professional healthcare (any clerical) environments, offering both fast general-purpose editing and secure encrypted document handling.
 
-## 🏥 Perfect for Healthcare Environments
-
-> Scratch Pad is intuitive enough for anyone — from the front desk to clinical staff. A custom word processor designed for everyday workflow, with an option of privacy-first features ready if you need them.
+## 🏥 Perfect for Healthcare
+> Scratch Pad is intuitive enough for anyone — from the front desk reception to administrative staff. A custom word processor designed for everyday workflow, with an option of privacy-first features ready if you need them.
 >
 > 
 ## 🚀 Getting Started
@@ -15,18 +14,18 @@ A word processor designed specifically for healthcare (or other clerical) enviro
 3. Configure your settings as needed
 > 
 
-Absolutely free to use — no subscriptions, no telemetry, no data mining, no annoying ads, and zero tracking. Third-party libraries are handpicked with privacy in mind, but don’t just take my word for it, feel free to audit away! 🗽🦅
+Absolutely free to use — no subscriptions, no telemetry, no data mining, no annoying ads, and zero tracking. Third-party libraries are handpicked with privacy in mind. Feel free to audit! 🗽🦅
 
 ## 🆕 Current Features
-
 ### General Mode (*Mostly Ready Now)
 - **Modern Dark UI** with MaterialDesign styling and opacity toggle
 - **Multiple File Formats** - .txt, .rtf, .md, .docx support
 - **Smart Features** - Auto-save, spell check, find/replace, undo/redo
 - **Print Support** with proper formatting
 - **Recent Files** management
-- **Customizable Settings** - fonts, word wrap, opacity, auto-save intervals
-- **No Telemetry** - completely private, local-only operation
+- **Bubbles and Clouds** Don't try to run both without a decent GPU
+- **Customizable Settings** - fonts, word wrap, opacity, auto-clear clipboard
+- **No Telemetry** - completely private, local-only file operation
 - **Password-Protected Access** - secure login to encrypted documents
 - **AES File Encryption** - military-grade encryption for sensitive documents saved as a custom *.secx format
 - **Visual Security Indicators** - clear UI showing when in secure mode
