@@ -1,6 +1,6 @@
-# Scratch Pad - A Healthcare-Focused Word Processor
+# Scratch Pad - A Privacy Focused Word Processor
 
-A word processor designed specifically for healthcare or other clerical environments, offering both fast general-purpose editing and secure encrypted document handling.
+A word processor designed specifically for healthcare (or other clerical) environments, offering both fast general-purpose editing and secure encrypted document handling.
 
 ## 🏥 Perfect for Healthcare Environments
 
